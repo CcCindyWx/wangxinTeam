@@ -85,3 +85,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 运行结果：
 点击按钮后，服务端控制台打印：
 图片已上传
+接下来我们来 搭建一个超简单的聊天室，我们需要用到线程池，存储Socket链接的集合，我们还需要 字节写一个线程
+实现的效果图：
+先把我们的服务端跑起来：
+图片已上传
